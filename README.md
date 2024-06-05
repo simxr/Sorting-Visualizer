@@ -1,6 +1,6 @@
 # Sorting-Visualizer
 
-Hosted on Vercel: [https://sorting-visualizer-simxr.vercel.app/]
+Hosted on Vercel: [ https://sorting-visualizer-simxr.vercel.app/ ]
 
 ## A simple frontend implementation to visualize various sorting algorithms including:
 1. _Bubble sort_<br>
