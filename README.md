@@ -1,6 +1,6 @@
-# Sorting-Visualizer
+# 📶Sorting-Visualizer
 
-Hosted on Vercel: [ https://sorting-visualizer-simxr.vercel.app/ ]
+Hosted on Vercel🚀 [ https://sorting-visualizer-simxr.vercel.app/ ]
 
 ## A simple frontend implementation to visualize various sorting algorithms including:
 1. _Bubble sort_<br>
@@ -11,8 +11,10 @@ Hosted on Vercel: [ https://sorting-visualizer-simxr.vercel.app/ ]
 6. _Radix LSD sort_<br>
 7. _Heap sort_<br>
 
-### Includes
+### ✅Includes
  + Toggles to select _Delay_ and _Array Size_
  + Copy-able codes
 
-## Contributions are welcome!
+![Landing Page](assets/page.png)
+
+## 🙌Contributions are welcome!
