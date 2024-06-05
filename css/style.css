@@ -89,7 +89,7 @@ form:hover {
 }
 
 #sidebar ul p {
-    color: #fff;
+    color: #ffffff;
     padding: 10px;
 }
 
@@ -251,18 +251,19 @@ a.shuffle:hover {
 @media (max-width: 768px) {
     .wrapper {
         flex-direction: column;
+        align-items: center; /* Center items vertically */
+        overflow-x: hidden; /* Prevent horizontal scrolling */
     }
 
     #sidebar {
         position: relative;
         width: 100%;
+        max-width: none; /* Remove max-width to fill the space */
         height: auto;
         margin-left: 0;
+        text-align:center ;
     }
 
-    #sidebar.active {
-        margin-left: 0;
-    }
 
     #content {
         margin-left: 0;
@@ -277,7 +278,5 @@ a.shuffle:hover {
         margin-top: 20px;
     }
 
-    #sidebarCollapse span {
-        display: none;
-    }
+   
 }
