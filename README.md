@@ -1,4 +1,4 @@
-# 📶Sorting-Visualizer
+# 📶A-Sorted: Sorting Visualizer
 
 Hosted on Vercel🚀 [ https://sorting-visualizer-simxr.vercel.app/ ]
 
