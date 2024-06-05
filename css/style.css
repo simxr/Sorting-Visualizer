@@ -71,7 +71,7 @@ form:hover {
     top: 0;
     bottom: 0;
     overflow-y: auto;
-    z-index: 2; /* Ensure sidebar is above content */
+    z-index: 2; 
 }
 
 #sidebar.active {
